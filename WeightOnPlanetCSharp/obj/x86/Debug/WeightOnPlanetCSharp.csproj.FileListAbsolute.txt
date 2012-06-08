@@ -1,0 +1,5 @@
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\WeightOnPlanetCSharp\WeightOnPlanetCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\WeightOnPlanetCSharp\WeightOnPlanetCSharp\bin\Debug\WeightOnPlanetCSharp.exe
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\WeightOnPlanetCSharp\WeightOnPlanetCSharp\bin\Debug\WeightOnPlanetCSharp.pdb
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\WeightOnPlanetCSharp\WeightOnPlanetCSharp\obj\x86\Debug\WeightOnPlanetCSharp.exe
+\\gfi.com\shares\Users\kharvison\Documents\Visual Studio 2010\Projects\WeightOnPlanetCSharp\WeightOnPlanetCSharp\obj\x86\Debug\WeightOnPlanetCSharp.pdb
